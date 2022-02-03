@@ -10,4 +10,4 @@ hello ccf! hello git!
 hello ccf! hello git!
 hello ccf! hello git!
 hello ccf! hello git! master test
-hello ccf! hello git!
+hello ccf! hello git! hot-fix test
